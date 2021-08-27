@@ -5,7 +5,7 @@
 - See working example at [Forex Margin Calculator Page](https://forexnew.org/คลังความรู้/margin/#margin)
 
 ## Formula
-- [Current Price x Lot Size x Contract Size] ÷ Leverage
+- Margin = [Current Price x Lot Size x Contract Size] ÷ Leverage
 
 ## Browser Support
 - Google Chrome
