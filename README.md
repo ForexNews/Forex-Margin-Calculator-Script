@@ -1,7 +1,7 @@
 # Forex Margin Calculator Script
 ![Forex Margin Script Example](https://forexnew.org/Download/forex-margin-script.png)
 - Lightweight plugin to automate Forex margin calculations.
-- Based on the jQuery AutoCalc plugin.
+- Use the jQuery AutoCalc plugin.
 - See working example at [Forex Margin Calculator Page](https://forexnew.org/คลังความรู้/margin/#margin)
 
 ## Formula
