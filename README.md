@@ -2,7 +2,7 @@
 ![Forex Margin Script Example](https://forexnew.org/Download/forex-margin-script.png)
 - Lightweight plugin to automate Forex margin calculations.
 - Use the jQuery AutoCalc plugin.
-- See working example at <a href="https://forexnew.org/คลังความรู้/margin/#margin" rel="dofollow">Forex Margin Calculator Page</a>
+- See working example at [Forex Margin Calculator Page](https://forexnew.org/คลังความรู้/margin/#margin)
 
 ## Formula
 - Margin = [Current Price x Lot Size x Contract Size] ÷ Leverage
