@@ -39,7 +39,7 @@
 </style>
 
 <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js'></script>
-<script defer type="text/javascript" src="https://cdn.jsdelivr.net/npm/jautocalc@1.4.1/dist/jautocalc.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jautocalc@1.4.1/dist/jautocalc.min.js"></script>
 <script type="text/javascript">$(function(){$("form#cal").jAutoCalc("destroy"),$("form#cal tr.line_items").jAutoCalc({keyEventsFire:!0,decimalPlaces:2,emptyAsZero:!0}),$("form#cal").jAutoCalc({decimalPlaces:2})});</script>
 
 <body>
