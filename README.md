@@ -19,12 +19,13 @@
 </head>
 
 <style>
+	.margin-table{margin:50px 0px 0px 0px}
 	#cal{max-width:700px;margin:0 auto}
 	#cal table{box-shadow:-1px 0px 9px 0px rgb(0 0 0 / 30%);border:1px solid #5eacea}
 	#cal th{background-color:#f3f2f2}
 	#cal td{background-color:#cee9ff;text-align:center}
 	#cal td,#cal th{border:1px solid #74b3e6}
-	#cal th, #cal input{font-size:14px;text-align:center}
+	#cal th, #cal input{font-size:16px;text-align:center}
 	#cal input{width:100px;padding:5px 0px 5px 0px;background:none;border:none;margin-right:10px;outline:none}
 	td.mm{border:3px solid #2196f3}
 	input.margin{text-decoration:underline;font-weight:bold}	
@@ -36,6 +37,7 @@
 
 <body>
 
+<div class="margin-table">
 <form id="cal"><table name="cal">
 <tr>
 	<th>Current Price</th>
@@ -54,6 +56,7 @@
 </tr>
 </table>
 </form>
+</div>
 
 </body>
 </html>
