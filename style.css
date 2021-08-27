@@ -1,3 +1,6 @@
+.margin-table {
+    margin:50px 0px 0px 0px
+}
 #cal {
     max-width: 700px;
     margin: 0 auto;
@@ -35,5 +38,4 @@ td.mm {
 }
 input.margin {
     text-decoration: underline;
-    font-weight: bold;
-}
+    font-weight: bold
